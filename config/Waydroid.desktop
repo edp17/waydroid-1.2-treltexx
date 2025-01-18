@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Waydroid
+Exec=waydroid show-full-ui
+Icon=waydroid
+
+[X-Sailjail]
+Sandboxing=Disabled
